@@ -147,15 +147,7 @@ void platos1(){
                         cout<<"en este momento no tenemos en existencia ese ingrediente, lo sentimos"<<endl;
                     }*/
                 }
-                
-               /* cout<<"desea agregar otra comida[s/n]:"<<endl;
-                cin>>seguir;
-                if(seguir!='s'|| seguir!='S'){
-                  bandera=false;
-                }else{
-                    bandera=true;
-                }
-            }while(bandera!=true);*/
+               
             
           for(int i=0;v_ingredientes.size();i++){
                
